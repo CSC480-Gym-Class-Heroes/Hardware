@@ -3,7 +3,9 @@ Todo List for Hardware Team
 - Create README.md file that gives a fun overview and description of the
 hardware side of the project.  These are meant to be relatively concise and
 simple.
+
 [Tips](http://stackoverflow.com/questions/2304863/how-to-write-a-good-readme)
+
 [Examples can be found on the github page of any popular project](https://github.com/muan/github-gmail)
 
 - Calibrate timeouts and distances.
