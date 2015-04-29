@@ -1,6 +1,6 @@
 Todo List for Hardware Team
 ===========================
-- Create README.md file that gives a fun overview and description of the
+- Kelly - Monday 5/4/2015 - Create README.md file that gives a fun overview and description of the
 hardware side of the project.  These are meant to be relatively concise and
 simple.
 
