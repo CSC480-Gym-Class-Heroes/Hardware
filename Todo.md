@@ -8,13 +8,13 @@ simple.
 
 [Examples can be found on the github page of any popular project](https://github.com/muan/github-gmail)
 
-- Calibrate timeouts and distances.
-- Put the raspberry pi in the case.
-- Document what hardware components to purchase, how to use them, etc.
+- Zac Calibrate timeouts and distances. 4/30/2015
+- Mark Put the raspberry pi in the case. 4/30/2015
+- Alan Document what hardware components to purchase, how to use them, etc.
 i.e. How to recreate this project without knowing anything about it.
-- How to become a developer on the project.
-- Clean up python code.
-- Wifi autoconnect?
+- Zac How to become a developer on the project. 5/10/2015
+- Zac Clean up python code. 5/7/2015
+- Mark Wifi autoconnect? 5/7/2015
 - ~~Mark - Auto reset the raspberry pi.~~
 - ~~Mark - Auto Login~~
 
