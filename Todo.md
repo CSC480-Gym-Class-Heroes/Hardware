@@ -16,4 +16,5 @@ i.e. How to recreate this project without knowing anything about it.
 - Clean up python code.
 - Wifi autoconnect?
 - ~~Mark - Auto reset the raspberry pi.~~
+- ~~Mark - Auto Login~~
 
