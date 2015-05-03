@@ -25,8 +25,12 @@ The HC-SR501 is not sensitive enough so solder off 102 and 105.
 
 Depending on how far apart the 2 sensors are from each other, this line should be calibrated to how long it takes to walk from sensor A to sensor B. Ideally, and if they are close together they are less than a second part. The line below says the sensors are around 5 seconds apart from each other. Therefore if the sensors are really close to each other, change it to less than a second.
 
+    if abs(t1_time-t2_time).total_seconds() < 5:
+
 To calibrate the sensors please refer to the source code below:
 Referring to line 37
+
+    if abs(t1_time-datetime.now()).total_seconds() < 1:
 
 Depending on how fast the sensors should reset after they trigger, less than one second is ideal for responsive and accurate data. This is important because users can accidentally set off one sensor and not the other. So in reality, the 1 should not be changed.
 
