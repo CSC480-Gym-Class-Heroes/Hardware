@@ -35,7 +35,6 @@ Referring to line 37
 Depending on how fast the sensors should reset after they trigger, less than one second is ideal for responsive and accurate data. This is important because users can accidentally set off one sensor and not the other. So in reality, the 1 should not be changed.
 
 ## How to recreate this project
- Follow this diagram below for steps 1-3
 
 - Get a breadboard and connect 2 wires from pin I9 to I29. Connect A7 TO A27
 - On the right side closest to the red of the I-9 wires connect number 7 with J17.
@@ -44,9 +43,5 @@ Depending on how fast the sensors should reset after they trigger, less than one
 - Grab 3 different colored wires and connect it to the HC-sr501 Sensor (In this case we will have 3 wires: black,       brown, and red): Connect the red wire closest to the yellow tower of the sensor, brown in the middle, and black on   the last available slot. Connect red to the red strip on the right side of the bus. Connect the black wire to the    left of the red wire. Connect the brown wire to the right. Connect the brown wire to the left of PIN I-9.
 - To connect the second sensor, repeat step 5 with different colored wires. Make sure the second "brown" wire gets      connected to the right of A7. The other two wires can go anywhere below or above from step 5.
 - Open up the Pi and go to the working directory(type "cd" to access a directory and "ls" to list the current           directories")
-
-
-  In this diagram, “ls” is listing the directories
-  “cd” in this diagram is accessing the “files” directories
 - Once the source code is reached, type sudo python NameOfSource.py
 - The hardware has successfully run. Good job!
