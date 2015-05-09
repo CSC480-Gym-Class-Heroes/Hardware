@@ -13,7 +13,7 @@ simple.
 - Alan - Document what hardware components to purchase, how to use them, etc.
 i.e. How to recreate this project without knowing anything about it.
 - Zac - How to become a developer on the project. 5/10/2015
-- Zac - Clean up python code. 5/7/2015
+- ~~Zac - Clean up python code. 5/7/2015~~
 - Mark - Wifi autoconnect? 5/7/2015
 - ~~Mark - Auto reset the raspberry pi.~~
 - ~~Mark - Auto Login~~
